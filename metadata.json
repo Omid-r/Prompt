@@ -1,0 +1,6 @@
+{
+  "name": "Banana Prompt Reverse-Engineer & Identity Lock",
+  "description": "سیستم استخراج پرامپت از عکس برای هوش مصنوعی بنانا با قفل و حفظ کامل هویت چهره (Identity Lock)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
